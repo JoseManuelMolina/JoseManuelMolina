@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoseManuelMolina
 - 👀 I’m interested in frontend development 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning RAngular
 
 <!---
 JoseManuelMolina/JoseManuelMolina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
