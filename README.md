@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoseManuelMolina
 - 👀 I’m interested in frontend development 
-- 🌱 I’m currently learning Angular
+- 🌱 Currently studying DAM (Multiplatform App Development)
 
 <!---
 JoseManuelMolina/JoseManuelMolina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
