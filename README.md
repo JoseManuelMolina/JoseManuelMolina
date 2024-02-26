@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @JoseManuelMolina
-- 👀 I’m interested in frontend development 
+- 👋 Hi, I’m @JoseManuelMolina 
 - 🌱 Currently studying DAM (Multiplatform App Development)
 
 <!---
